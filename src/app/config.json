@@ -1,0 +1,46 @@
+[{
+  "lightFieldAttributes": {
+    "hogelDimensions": [
+       512,
+       512
+    ],
+    "directionalResolution": [
+       115,
+       115
+    ],
+    "displayFOV": [
+       45,
+       45
+    ],
+    "file": "output_PirateChurch512.png"
+ }
+},
+  {
+    "lightFieldAttributes":
+    {
+        "hogelDimensions":[256,256],
+        "DirectionalResolution":[282,282],
+        "displayFOV": [90,90],
+        "file":"output_TwoBuildings.png"
+    }
+    
+  },
+  {
+    "lightFieldAttributes": {
+      "hogelDimensions": [
+         256,
+         256
+      ],
+      "directionalResolution": [
+         115,
+         115
+      ],
+      "displayFOV": [
+         45,
+         45
+      ],
+      "file": "output_PirateChurch.png"
+    }
+  }
+  
+]

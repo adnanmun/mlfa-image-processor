@@ -1,0 +1,9 @@
+.itemview {
+  display: flex;
+  border-bottom: 0.3px solid gray;
+  /*width: 100%;*/
+  justify-content: space-between;
+
+}
+
+
