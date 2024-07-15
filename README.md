@@ -42,4 +42,4 @@ Generated images and JSON metadata are saved in the output directory. The script
 
 ## Acknowledgements
 
-This project builds upon the original work by Harsual. The current version includes several modifications to improve functionality and user experience, while maintaining the core features developed by Harsual.
+This project builds upon the original work by Harsual. This version includes several modifications to improve functionality and user experience, while maintaining the core features developed by Harsual.
